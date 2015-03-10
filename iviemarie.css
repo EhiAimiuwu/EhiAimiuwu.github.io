@@ -1,0 +1,31 @@
+
+#video_background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -1000;
+	overflow: hidden;
+}
+
+h1 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 40px;
+	color: #5CE1B4;	
+}
+
+ul.horizontal{
+margin:0;
+padding:0;
+}
+
+ul.horizontal li{
+display:block;
+float:left;
+padding:0 10px;
+}
+
