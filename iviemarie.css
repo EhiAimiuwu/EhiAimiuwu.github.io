@@ -1,28 +1,11 @@
-
-#video_background {
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	bottom: 0px;
-	min-width: 100%;
-	min-height: 100%;
-	width: auto;
-	height: 1000;
-	z-index: -1000;
-	overflow: hidden;
+body {
+    background-color: white;
 }
 
 #image_background {
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	bottom: 0px;
+	position: relative;
 	min-width: 100%;
-	min-height: 100%;
-	width: auto;
 	height: 1000;
-	z-index: -1000;
-	overflow: hidden;
 }
 
 h1 {
